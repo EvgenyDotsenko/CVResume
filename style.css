@@ -1,0 +1,10 @@
+body {
+  background-image: url(../CVResume/img/vector-OCT-2020-110_generated.jpg);
+}
+.container {
+  width: 1200px;
+  min-height: 1400px;
+  border: 10px solid rgb(248, 2, 2);
+  margin: 0 auto;
+  background: #fff;
+}
