@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
+
+body {
+  font-family: "Dongle", sans-serif;
+  background-image: url(https://cdn.wallpapersafari.com/22/32/RWg5f1.png);
+  padding: 100px 0;
+}
+
+.container {
+  width: 800px;
+  min-height: 800px;
+  border: 10px solid white;
+  margin: 0 auto;
+  background: #fff;
+}
+.header {
+  display: flex;
+  height: 150px;
+}
+
+.title-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100%;
+  border: 2px solid red;
+  font-size: 30px;
+}
+.userpic {
+  display: flex;
+  width: 20%;
+  height: 100%;
+  border: 2px solid blue;
+}

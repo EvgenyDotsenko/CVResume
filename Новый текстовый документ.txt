@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+        integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./CV/styles.css">
+</head>
+<body>
+    <div class="container">
+     <div class="left_Side">
+      <div class="profileText">
+      <div class="right_Side">
+          <div class="imgBx">
+              <img class="img" src="CV/img/img.png">
+        </div>
+        <h2>Evgeniy Dotsenko<br><span>Web Developer</span></h2>
+        </div>
+        <div class="contactInfo">
+            <h3 class="title">Contact info</h3>
+            <ul>
+                <li>
+                    <span class="icon"><i class="fa fa-address-book-o" aria-hidden="true"></i></span>
+                    <span class="text">+3 809 8534 0</span>
+                </li>
+                <li>
+                    <span class="icon"></span>
+                    <span class="text">frantz.cafka@gmail.com</span>
+                </li>
+                </li>
+            </ul>
+        </div>
+    </div>
+         
+    </div>
+</body>
+</html>
